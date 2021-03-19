@@ -24,8 +24,19 @@ h2 {
     justify-content: center;
 }
 
-.center {
-    justify-content: center;
+.align-items {
+    height: 100vh;
+    align-items: center;
 }
 
+.height-25 {
+    height: 25%;
+}
+.dropdown-border {
+    margin-bottom: 2%;
+    border: solid white 1px;
+}
 
+.border-radius {
+    border-radius: 10px;
+}
