@@ -1,3 +1,31 @@
-.container {
-    background-color: grey;
+body {
+    background-color: #2e3e50;
 }
+
+.full-width {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    line-height: 1.5;
+    padding: 1% 0 1% 0;
+}
+
+.margin-bottom {
+    margin-bottom: 2%;
+}
+
+.flex {
+    display: flex;
+}
+
+.btn-center {
+    justify-content: center;
+}
+
+.center {
+    justify-content: center;
+}
+
+
